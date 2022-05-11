@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="761.688" height="356.078" viewBox="0 0 761.688 356.078">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.201" y1="-0.146" x2="0.568" y2="0.884" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#01d6c6"/>
+      <stop offset="0.537" stop-color="#1379bc"/>
+      <stop offset="1" stop-color="#1476bc"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9344" data-name="Group 9344" transform="translate(0 -14)">
+    <rect id="Rectangle_17460" data-name="Rectangle 17460" width="761.688" height="356.078" rx="15" transform="translate(0 14)" fill="url(#linear-gradient)"/>
+    <text id="Internet_of_Things" data-name="Internet of Things" transform="translate(380.844 120.735)" fill="#fff" font-size="54" font-family="BarlowCondensed-Bold, Barlow Condensed" font-weight="700"><tspan x="-200.826" y="0">INTERNET</tspan><tspan y="0" xml:space="preserve" fill="#01d6c6"> OF THINGS</tspan></text>
+  </g>
+</svg>

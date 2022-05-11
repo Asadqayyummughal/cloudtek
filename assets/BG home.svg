@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="11515" viewBox="0 0 1920 11515">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17648" data-name="Rectangle 17648" width="1920" height="11515" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_20" data-name="Mask Group 20" clip-path="url(#clip-path)">
+    <g id="Group_9869" data-name="Group 9869">
+      <g id="Ellipse_1532" data-name="Ellipse 1532" transform="translate(1895.648 9756.82) rotate(45)" fill="#fff" stroke="#3a4151" stroke-width="285" opacity="0.03">
+        <circle cx="592.619" cy="592.619" r="592.619" stroke="none"/>
+        <circle cx="592.619" cy="592.619" r="450.119" fill="none"/>
+      </g>
+      <rect id="Rectangle_552" data-name="Rectangle 552" width="1233.234" height="269.388" rx="134.694" transform="translate(1104 7048.926) rotate(-45)" fill="#f8f8f8"/>
+      <rect id="Rectangle_17461" data-name="Rectangle 17461" width="1233.234" height="269.388" rx="134.694" transform="translate(1518.698 7090.676) rotate(-45)" fill="#f8f8f8"/>
+      <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(1980.09 726) rotate(45)" fill="#fff" stroke="#3a4151" stroke-width="285" opacity="0.03">
+        <circle cx="592.619" cy="592.619" r="592.619" stroke="none"/>
+        <circle cx="592.619" cy="592.619" r="450.119" fill="none"/>
+      </g>
+      <g id="Ellipse_1531" data-name="Ellipse 1531" transform="translate(2011.436 1728.307) rotate(45)" fill="#fff" stroke="#3a4151" stroke-width="285" opacity="0.03">
+        <circle cx="424.926" cy="424.926" r="424.926" stroke="none"/>
+        <circle cx="424.926" cy="424.926" r="282.426" fill="none"/>
+      </g>
+      <g id="Ellipse_1529" data-name="Ellipse 1529" transform="translate(-89.422 4543.643) rotate(45)" fill="#fff" stroke="#3a4151" stroke-width="285" opacity="0.03">
+        <circle cx="536.119" cy="536.119" r="536.119" stroke="none"/>
+        <circle cx="536.119" cy="536.119" r="393.619" fill="none"/>
+      </g>
+      <text id="_" data-name="    " transform="translate(1363.313 6201)" fill="#fff" font-size="20" font-family="OpenSans, Open Sans"><tspan x="0" y="0" xml:space="preserve">    </tspan></text>
+      <path id="Path_11541" data-name="Path 11541" d="M0,233.05Z" transform="translate(693.527 9899.473)" fill="#fff"/>
+      <path id="Path_35" d="M-291.43,654.291v-91.8A10.772,10.772,0,0,0-302.225,551.7H-345.4a10.772,10.772,0,0,0-10.8,10.795v91.8a12.578,12.578,0,0,0,12.581,12.581h39.607A12.578,12.578,0,0,0-291.43,654.291ZM-295,641.709H-352.55V566.145H-295Zm-57.547,3.573H-295v1.786a9.015,9.015,0,0,1-9.009,9.009h-39.607a9.015,9.015,0,0,1-9.009-9.009Zm7.145-89.932h43.18A7.259,7.259,0,0,1-295,562.573H-352.55a7.143,7.143,0,0,1,7.145-7.222ZM-304.012,663.3h-39.607a9.059,9.059,0,0,1-8.853-7.223,12.516,12.516,0,0,0,8.853,3.65h39.607a12.792,12.792,0,0,0,8.853-3.65A9.059,9.059,0,0,1-304.012,663.3Z" transform="translate(1112.002 5508.315)" fill="#fff"/>
+      <g id="icon" transform="translate(208 6029.016)">
+        <g id="_3d-29" data-name="3d-29" transform="translate(29 31)">
+          <path id="Path" d="M.585,0V27.364" transform="translate(59.616)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Path-2" data-name="Path" d="M0,10.946,21.891,0" transform="translate(0 93.038)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Path-3" data-name="Path" d="M21.891,10.946,0,0" transform="translate(98.511 93.038)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Path-4" data-name="Path" d="M0,0,38.31,19.155,76.62,0" transform="translate(21.891 46.519)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Path-5" data-name="Path" d="M.585,0V46.519" transform="translate(59.616 65.674)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Path-6" data-name="Path" d="M76.62,19.155,38.31,0,0,19.155V65.674L38.31,84.829,76.62,65.674Z" transform="translate(21.891 27.364)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

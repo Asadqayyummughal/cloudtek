@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="520" height="571" viewBox="0 0 520 571">
+  <defs>
+    <filter id="surface" x="0" y="0" width="520" height="571" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#090e14" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="feature_01" transform="translate(28.268 28.175)">
+    <g transform="matrix(1, 0, 0, 1, -28.27, -28.17)" filter="url(#surface)">
+      <rect id="surface-2" data-name="surface" width="448" height="499" rx="12" transform="translate(28 28)" fill="#0576bc"/>
+    </g>
+    <g id="text" transform="translate(40.689 255.323)">
+      <text id="body" transform="translate(0.045 79.502)" fill="#fff" font-size="18" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="14.64" y="18">We are passionate and committed in heart </tspan><tspan x="21.691" y="42">and mind to what we do. Our employees </tspan><tspan x="5.307" y="66">work around the clock coming up with ideas.</tspan></text>
+      <text id="headline" transform="translate(0.045 -0.498)" fill="#fff" font-size="34" font-family="BarlowCondensed-SemiBold, Barlow Condensed" font-weight="600" letter-spacing="-0.02em"><tspan x="136.654" y="34">Passion</tspan></text>
+    </g>
+    <g id="badge" transform="translate(137.706 40.706)">
+      <rect id="surface-3" data-name="surface" width="169" height="169" rx="48" transform="translate(0.027 0.119)" fill="#f9fbff"/>
+      <g id="icon" transform="translate(0 0)">
+        <rect id="frame" width="169" height="169" transform="translate(0.027 0.119)" fill="none"/>
+        <g id="_-Product-Icons" data-name="🔍-Product-Icons" transform="translate(50.028 42.104)">
+          <g id="ic_fluent_lock_24_regular" transform="translate(0 0)">
+            <path id="_-Color" data-name="🎨-Color" d="M37.7,2A16.853,16.853,0,0,1,54.557,18.852v8.426H61.93a9.48,9.48,0,0,1,9.479,9.479V76.783a9.48,9.48,0,0,1-9.479,9.479H13.48A9.48,9.48,0,0,1,4,76.783V36.758a9.48,9.48,0,0,1,9.48-9.479h7.373V18.852A16.852,16.852,0,0,1,37.7,2ZM61.93,33.6H13.48a3.16,3.16,0,0,0-3.16,3.16V76.783a3.16,3.16,0,0,0,3.16,3.16H61.93a3.16,3.16,0,0,0,3.16-3.16V36.758A3.16,3.16,0,0,0,61.93,33.6ZM37.705,50.451a6.32,6.32,0,1,1-6.32,6.32A6.32,6.32,0,0,1,37.705,50.451Zm0-42.131A10.533,10.533,0,0,0,27.172,18.852v8.426H48.238V18.852A10.533,10.533,0,0,0,37.7,8.32Z" transform="translate(-4 -2)" fill="#01d6c6"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

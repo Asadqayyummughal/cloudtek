@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121.297" height="113.312" viewBox="0 0 121.297 113.312">
+  <g id="icon" transform="translate(-28.553 -31)">
+    <g id="_3d-29" data-name="3d-29" transform="translate(29 31)">
+      <path id="Path" d="M.585,0V27.364" transform="translate(59.616)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-2" data-name="Path" d="M0,10.946,21.891,0" transform="translate(0 93.038)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-3" data-name="Path" d="M21.891,10.946,0,0" transform="translate(98.511 93.038)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-4" data-name="Path" d="M0,0,38.31,19.155,76.62,0" transform="translate(21.891 46.519)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-5" data-name="Path" d="M.585,0V46.519" transform="translate(59.616 65.674)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path-6" data-name="Path" d="M76.62,19.155,38.31,0,0,19.155V65.674L38.31,84.829,76.62,65.674Z" transform="translate(21.891 27.364)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
